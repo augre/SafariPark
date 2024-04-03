@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34408.163
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafariHw", "SafariHw\SafariHw.csproj", "{098BA35B-EDF1-42D7-BB02-15195D318653}"
 EndProject
@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP", "OCP\OCP.csproj", "{3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP", "SRP\SRP.csproj", "{B1E20584-F276-4E3B-88D4-F97EBD94A046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficController", "TrafficController\TrafficController.csproj", "{30B3287A-BB3E-42AF-9E07-6A736C81F1A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficController", "TrafficController\TrafficController.csproj", "{30B3287A-BB3E-42AF-9E07-6A736C81F1A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncLogger", "AsyncLogger\AsyncLogger.csproj", "{79E2FFC3-3762-4E24-A760-5B5254DA5C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{30B3287A-BB3E-42AF-9E07-6A736C81F1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B3287A-BB3E-42AF-9E07-6A736C81F1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B3287A-BB3E-42AF-9E07-6A736C81F1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E2FFC3-3762-4E24-A760-5B5254DA5C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E2FFC3-3762-4E24-A760-5B5254DA5C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E2FFC3-3762-4E24-A760-5B5254DA5C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E2FFC3-3762-4E24-A760-5B5254DA5C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
